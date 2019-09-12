@@ -19,4 +19,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 ## Person liable
 |#|Name |Mail* |
 |:-----|:----- |:-----|
-|16级|[Tongxi Chen](https://github.com/sleepercxt)|375122362@qq.com|
+|16级|[Xitong Chen](https://github.com/sleepercxt)|375122362@qq.com|
