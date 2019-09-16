@@ -13,7 +13,9 @@ A collection of state-of-the-art detection architectures.
   - [2017](https://github.com/lutxyl/Detection#2017)
   - [2018](https://github.com/lutxyl/Detection#2018)
   - [2019](https://github.com/lutxyl/Detection#2019)
-- [Dataset Papers](https://github.com/lutxyl/Detection/blob/master/README.md#network-list-updating)
+- [Dataset Papers](https://github.com/lutxyl/Detection#network-list-updating)
+- [Link of Datesets](https://github.com/lutxyl/Detection#link-of-datasets)
+- [Person liable](https://github.com/lutxyl/Detection#person-liable)
 
 ##
 ## Performance table
