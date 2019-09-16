@@ -32,47 +32,46 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 ##
 ### 2014
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 
 ##
 ### 2015
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
-
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 ##
 ### 2016
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 
 ##
 ### 2017
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 ##
 ### 2018
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 ##
 ### 2019
 
-|  Model   | Paper Titel  |   Published  |    Code*   |   Keywords   |   Person liable*  |
-|:---------|:-------------|:-------------|:-----------|:-------------|:------------------|
-| |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| | Jiaming Wang|
+|  Model   | Paper Titel  |   Published  |   Keywords   |      Code*     |   Person liable*  |
+|:---------|:-------------|:-------------|:-------------|:---------------|:------------------|
+| |Part-Aligned Bilinear Representations for Person Re-Identification | |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| Jiaming Wang |
 
 ##
 ## Link of datasets
