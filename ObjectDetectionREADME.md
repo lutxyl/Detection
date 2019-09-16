@@ -2,7 +2,7 @@
 A collection of state-of-the-art detection architectures.
 
 #### Update log
-2019/9/16 update some of recent papers and make some diagram about history of object detection using deep learning. 
+2019/9/16 update the structure of readme, Reference from[deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection/blob/master/README.md). 
 
 ## Table of Contents
 - [Performance table](https://github.com/lutxyl/Detection#performance-table)
