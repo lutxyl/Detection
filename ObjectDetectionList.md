@@ -7,15 +7,15 @@ A collection of state-of-the-art detection architectures.
 ## Table of Contents
 - [Performance table](https://github.com/lutxyl/Detection#performance-table)
 - Papers
-  - [2014](https://github.com/lutxyl/Detection#2014)
-  - [2015](https://github.com/lutxyl/Detection#2015)
-  - [2016](https://github.com/lutxyl/Detection#2016)
-  - [2017](https://github.com/lutxyl/Detection#2017)
-  - [2018](https://github.com/lutxyl/Detection#2018)
-  - [2019](https://github.com/lutxyl/Detection#2019)
-- [Dataset Papers](https://github.com/lutxyl/Detection#network-list-updating)
-- [Link of Datesets](https://github.com/lutxyl/Detection#link-of-datasets)
-- [Person liable](https://github.com/lutxyl/Detection#person-liable)
+  - [2014](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2014)
+  - [2015](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2015)
+  - [2016](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2016)
+  - [2017](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2017)
+  - [2018](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2018)
+  - [2019](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2019)
+- [Dataset Papers](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#network-list-updating)
+- [Link of Datesets](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#link-of-datasets)
+- [Person liable](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#person-liable)
 
 ##
 ## Performance table
