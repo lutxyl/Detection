@@ -1,4 +1,4 @@
-# Object Detection
+# Face Detection
 A collection of state-of-the-art face detection architectures.
 
 #### Update log
