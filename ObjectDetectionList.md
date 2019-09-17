@@ -5,7 +5,7 @@ A collection of state-of-the-art detection architectures.
 2019/9/16 update the structure of readme, reference from [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection/blob/master/README.md). 
 
 ## Table of Contents
-- [Performance table](https://github.com/lutxyl/Detection#performance-table)
+- [Performance table](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#performance-table)
 - Papers
   - [2014](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2014)
   - [2015](https://github.com/lutxyl/Detection/blob/master/ObjectDetectionList.md#2015)
