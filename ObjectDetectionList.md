@@ -91,7 +91,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |   #   |                  **Name**                     |         **Mail***       |
 |:------|:-------------------------------------------|:--------------------|
 |   16  |[Xitong Chen](https://github.com/sleepercxt)|   375122362@qq.com  |
-|   16  |Jiaming Wang](-)|   -  |
+|   16  |[Jiaming Wang](-)|   -  |
 |   18  |[Bin Wang](https://github.com/urbaneman)|   wangurbane@gmail.com  |
 |   19  |[Fangfang Cheng](-)|   -  |
 
