@@ -92,7 +92,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) | [`[caffe OC]`](https://github.com/sfzhang15/RefineDet) | Fangfang Cheng |
 | **Cascade R-CNN** | Cascade R-CNN: Delving into High Quality Object Detection  | ***Cascade R-CNN,object detection*** | [CVPR' 18
 ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf) | [`[]`]() | Fangfang Cheng |
-| **** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
+| **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
 
 ##
 ##
