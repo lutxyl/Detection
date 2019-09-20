@@ -27,6 +27,11 @@ FPS(Speed) index is related to the hardware spec(e.g. CPU, GPU, RAM, etc), so it
 |    SPP-Net   |         59.2        |          -          |      -     |    ECCV'14   |
 |  Fast R-CNN  |     70.0 (07+12)    |     68.4 (07++12)   |    19.7    |    ICCV'15   |
 | Faster R-CNN |     73.2 (07+12)    |     70.4 (07++12)   |    21.9    |    NIPS'15   |
+|    YOLO v1   |     66.4 (07+12)    |     57.9 (07++12)   |      -     |    CVPR'16   |
+|   HyperNet   |     76.3 (07+12)    |    71.4 (07++12)    |      -     |    CVPR'16   |
+|     OHEM     |     78.9 (07+12)    |    76.3 (07++12)    |    22.4    |    CVPR'16   |
+|      SSD     |     76.8 (07+12)    |    74.9 (07++12)    |    31.2    |    ECCV'16   |
+|     R-FCN    |     79.5 (07+12)    |    77.6 (07++12)    |    29.9    |    NIPS'16   |
 
 ##
 ## Network list (Updating)
@@ -38,7 +43,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
 |  **R-CNN**   | Rich feature hierarchies for accurate object detection and semantic segmentation | ***CNNs, R-CNN*** | [CVPR' 14](https://arxiv.org/pdf/1311.2524.pdf) | [`[MATLAB OC]`](https://github.com/rbgirshick/rcnn) | Bin Wang |
-| **OverFeat** | OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks | ***ConvNet, OverFeat*** | [ICLR' 14](https://arxiv.org/pdf/1312.6229.pdf) | [`[C++ OC]`](https://github.com/sermanet/OverFeat) | Bin Wang |
+| **OverFeat** | OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks | ***ConvNet, OverFeat*** | [ICLR' 14](https://arxiv.org/pdf/1312.6229.pdf) | [`[torch OC]`](https://github.com/sermanet/OverFeat) | Bin Wang |
 | **MultiBox** | Scalable Object Detection using Deep Neural Networks | ***saliency-inspired neural network, class-agnostic bounding boxes*** |  [CVPR' 14](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf) | [`[caffe OC]`](https://github.com/google/multibox) | FangFang Cheng |
 | **SPP-Net**  | Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition | ***Spatial Pyramid Pooling*** | [ECCV' 14](https://arxiv.org/pdf/1406.4729.pdf) | [`[caffe OC]`](https://github.com/ShaoqingRen/SPP_net) [`[tensorflow RC]`](https://github.com/peace195/sppnet) [`[keras RC]`](https://github.com/yhenon/keras-spp) | Bin Wang |
 
@@ -49,7 +54,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
 | **MR-CNN**   | Object detection via a multi-region & semantic segmentation-aware CNN model | ***multi-region, semantic segmentation-aware*** | [ICCV' 15](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf) | [`[caffe OC]`](https://github.com/gidariss/mrcnn-object-detection) | Bin Wang |
 | **DeepBox**  | DeepBox: Learning Objectness with Convolutional Networks | ***DeepBox*** | [ICCV' 15](https://arxiv.org/pdf/1505.02146.pdf) | [`[caffe OC]`](https://github.com/weichengkuo/DeepBox) | Bin Wang |
-| **AttentionNet** | AttentionNet: Aggregating Weak Directions for Accurate Object Detection | ***-*** | [ICCV' 15](https://arxiv.org/pdf/1506.07704.pdf) | [`[-]`] | Bin Wang |
+| **AttentionNet** | AttentionNet: Aggregating Weak Directions for Accurate Object Detection | ***iterative classification*** | [ICCV' 15](https://arxiv.org/pdf/1506.07704.pdf) | - | Bin Wang |
 | **Fast R-CNN** | Fast R-CNN | ***ROI Pooling, Feature Reuse*** | [ICCV' 15](https://arxiv.org/pdf/1504.08083.pdf) | [`[Caffe OC]`](https://github.com/rbgirshick/fast-rcnn) | Bin Wang |
 | **DeepProposal** | DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers | ***DeepProposal, Cascade*** | [ICCV' 15](https://arxiv.org/pdf/1510.04445.pdf) | [`[matconvnet OC]`](https://github.com/aghodrati/deepproposal) | Bin Wang |
 | **Faster R-CNN** | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | ***Real-time, RPN, Anchor*** | [NIPS' 15](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) | [`[caffe OC]`](https://github.com/rbgirshick/py-faster-rcnn) [`[tensorflow RC]`](https://github.com/endernewton/tf-faster-rcnn) [`[pytorch RC]`](https://github.com/jwyang/faster-rcnn.pytorch)  | Bin Wang |
@@ -58,7 +63,11 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **-** | - | ***-*** | [-](-) | [`[- OC]`](-) | - |
+| **YOLOV1** | You Only Look Once: Unified, Real-Time Object Detection  | ***1-stage, grid cell*** | [CVPR' 16](https://arxiv.org/pdf/1506.02640.pdf) | [`[C OC]`](https://pjreddie.com/darknet/yolo/) | Bin Wang |
+| **HyperNet** | HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection | ***Hyper Feature*** | [CVPR' 16](https://arxiv.org/pdf/1604.00600.pdf) | - | Bin Wang |
+| **OHEM** | Training Region-based Object Detectors with Online Hard Example Mining | ***online hard example mining*** | [CVPR' 16](https://arxiv.org/pdf/1604.03540.pdf) | [`[caffe OC]`](https://github.com/abhi2610/ohem) | Bin ang |
+| **SSD** | SSD: Single Shot MultiBox Detector | ***1-stage, default-box, Hard negative mining, multi-feature maps*** | [ECCV' 16](https://arxiv.org/pdf/1512.02325.pdf) | [`[caffe OC]`](https://github.com/weiliu89/caffe/tree/ssd) [`[tensorflow RC]`](https://github.com/balancap/SSD-Tensorflow) [`[pytorch RC]`](https://github.com/amdegroot/ssd.pytorch)| Bin Wang |
+| **R-FCN** | R-FCN: Object Detection via Region-based Fully Convolutional Networks  | ***PS ROI-Pooling, FCN*** | [NIPS](https://arxiv.org/pdf/1605.06409.pdf) | [`[caffe OC]`](https://github.com/daijifeng001/R-FCN) [`[caffe RC]`](https://github.com/YuwenXiong/py-R-FCN)| Bin Wang |
 
 
 ##
@@ -66,22 +75,32 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **-** | - | ***-*** | [-](-) | [`[- OC]`](-) | - |
+| **DSD** | DSSD : Deconvolutional Single Shot Detector | ***DDSD,object detection*** | [arXiv' 17](https://arxiv.org/pdf/1701.06659.pdf) | [`[caffe RC]`](https://github.com/chengyangfu/caffe/tree/dssd) | Fangfang Cheng |
+| **YOLO v2** | YOLO9000: Better, Faster, Stronger | ***YOLO,real-time object detection*** |[CVPR'](https://arxiv.org/pdf/1612.08242.pdf) | [`[tensorflow OC]`](http://pjreddie.com/yolo9000/) | Fangfang Cheng |
+| **RON** | RON: Reverse Connection with Objectness Prior Networks for Object Detection | ***RON,Prior networks,object detection*** | [CVPR' 17](https://arxiv.org/pdf/1707.01691.pdf) | [`[tensorflow OC]`](https://github.com/taokong/RON) | Fangfang Cheng |
+| **DeNet** | DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling | ***Scalable Real-time Object Detection,Directed Sparse Sampling*** | [CVPR' 17](https://arxiv.org/pdf/1703.10295.pdf) | [`[Theano OC]`](https://github.com/lachlants/denet) | Fangfang Cheng |
+| **CoupleNet** | CoupleNet: Coupling Global Structure with Local Parts for Object Detection | ***CoupleNet,object detection*** | [ICCV'17](https://arxiv.org/pdf/1708.02863.pdf) | [`[matlab OC]`](https://github.com/tshizys/CoupleNet) | Fangfang Cheng|
 
 ##
 ### 2018
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **-** | - | ***-*** | [-](-) | [`[- OC]`](-) | - |
+| **YOLO v3** | YOLOv3: An Incremental Improvement | ***YOLO*** | [arXiv' 18](https://pjreddie.com/media/files/papers/YOLOv3.pdf) | [`[tensorflow OC]`](https://pjreddie.com/darknet/yolo/) | Fangfang Cheng | 
+| **SIN** | Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships | ***SIN,object detection,Scence-Level Context,Instance-Level Relationships*** | [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Structure_Inference_Net_CVPR_2018_paper.pdf) | [`[tensorflow OC]`](https://github.com/choasup/SIN) | Fangfang Cheng |
+| **RefineDet** | Sngle-Shot Refinement Neural Network for Object Detection | ***RefineDet,object detection*** | [CVPR' 18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) | [`[caffe OC]`](https://github.com/sfzhang15/RefineDet) | Fangfang Cheng |
+| **Cascade R-CNN** | Cascade R-CNN: Delving into High Quality Object Detection  | ***Cascade R-CNN,object detection*** | [CVPR' 18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf) | [`[]`]() | Fangfang Cheng |
+| **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
 
+##
 ##
 ### 2019
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **-** | - | ***-*** | [-](-) | [`[- OC]`](-) | - |
-
+| **RefineDet** | Single-Shot Refinement Neural Network for Object Detection | ***RefineDet,object detection*** | [CVPR' 18
+](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) | [`[caffe OC]`](https://github.com/sfzhang15/RefineDet) | Fangfang Cheng |
+| **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
 ##
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
@@ -160,6 +179,6 @@ The papers related to datasets used mainly in Object Detection are as follows.
 |   16  |[Xitong Chen](https://github.com/sleepercxt)|   375122362@qq.com  |
 |   16  |[Jiaming Wang](-)|   -  |
 |   18  |[Bin Wang](https://github.com/urbaneman)|   wangurbane@gmail.com  |
-|   19  |[Fangfang Cheng](-)|   -  |
+|   19  |[Fangfang Cheng](-)|   2475256748@qq.com  |
 
 ##
