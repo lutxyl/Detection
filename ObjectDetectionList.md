@@ -98,8 +98,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **RefineDet** | Single-Shot Refinement Neural Network for Object Detection | ***RefineDet,object detection*** | [CVPR' 18
-](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) | [`[caffe OC]`](https://github.com/sfzhang15/RefineDet) | Fangfang Cheng |
+| **RefineDet** | Single-Shot Refinement Neural Network for Object Detection | ***RefineDet,object detection*** | [CVPR' 18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) | [`[caffe OC]`](https://github.com/sfzhang15/RefineDet) | Fangfang Cheng |
 | **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
 ##
 ## Link of datasets
