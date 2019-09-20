@@ -75,7 +75,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |  **Model**   | **Paper Title**  |   **Keywords**   |   **Published**  |      **Code***     |   **Person liable***  |
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
-| **-** | - | ***-*** | [-](-) | [`[- OC]`](-) | - |
+| **DSD** | DSSD : Deconvolutional Single Shot Detector | ***DDSD,object detection*** | [arXiv' 17](https://arxiv.org/pdf/1701.06659.pdf) | [`[caffe RC]`](https://github.com/chengyangfu/caffe/tree/dssd) | Fangfang Cheng |
+| **YOLO v2** | YOLO9000: Better, Faster, Stronger | ***YOLO,real-time object detection*** |[CVPR'](https://arxiv.org/pdf/1612.08242.pdf) | [`[tensorflow OC]`](http://pjreddie.com/yolo9000/) | Fangfang Cheng |
+| **RON** | RON: Reverse Connection with Objectness Prior Networks for Object Detection | ***RON,Prior networks,object detection*** | [CVPR' 17](https://arxiv.org/pdf/1707.01691.pdf) | [`[tensorflow OC]`](https://github.com/taokong/RON) | Fangfang Cheng |
+| **DeNet** | DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling | ***Scalable Real-time Object Detection,Directed Sparse Sampling*** | [CVPR' 17](https://arxiv.org/pdf/1703.10295.pdf) | [`[Theano OC]`](https://github.com/lachlants/denet) | Fangfang Cheng |
 
 ##
 ### 2018
