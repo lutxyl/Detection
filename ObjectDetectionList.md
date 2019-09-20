@@ -79,6 +79,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 | **YOLO v2** | YOLO9000: Better, Faster, Stronger | ***YOLO,real-time object detection*** |[CVPR'](https://arxiv.org/pdf/1612.08242.pdf) | [`[tensorflow OC]`](http://pjreddie.com/yolo9000/) | Fangfang Cheng |
 | **RON** | RON: Reverse Connection with Objectness Prior Networks for Object Detection | ***RON,Prior networks,object detection*** | [CVPR' 17](https://arxiv.org/pdf/1707.01691.pdf) | [`[tensorflow OC]`](https://github.com/taokong/RON) | Fangfang Cheng |
 | **DeNet** | DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling | ***Scalable Real-time Object Detection,Directed Sparse Sampling*** | [CVPR' 17](https://arxiv.org/pdf/1703.10295.pdf) | [`[Theano OC]`](https://github.com/lachlants/denet) | Fangfang Cheng |
+| **CoupleNet** | CoupleNet: Coupling Global Structure with Local Parts for Object Detection | ***CoupleNet,object detection*** | [ICCV'17](https://arxiv.org/pdf/1708.02863.pdf) | [`[matlab OC]`](https://github.com/tshizys/CoupleNet) | Fangfang Cheng|
 
 ##
 ### 2018
@@ -172,6 +173,6 @@ The papers related to datasets used mainly in Object Detection are as follows.
 |   16  |[Xitong Chen](https://github.com/sleepercxt)|   375122362@qq.com  |
 |   16  |[Jiaming Wang](-)|   -  |
 |   18  |[Bin Wang](https://github.com/urbaneman)|   wangurbane@gmail.com  |
-|   19  |[Fangfang Cheng](-)|   -  |
+|   19  |[Fangfang Cheng](-)|   2475256748@qq.com  |
 
 ##
