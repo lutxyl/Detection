@@ -100,6 +100,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |:-------------|:-----------------|:-----------------|:-----------------|:-------------------|:----------------------|
 | **M2Det** | M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network | ***M2Det,single-shot object detector,multi-level feature pyramid network*** | [AAAI' 19](https://arxiv.org/pdf/1811.04533.pdf) | [`[pytarch OC]`](https://github.com/qijiezhao/M2Det) | Fangfang Cheng |
 | **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
+| **-** | - | ***-*** | []() | [`[]`]() | Fangfang Cheng |
 ##
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
