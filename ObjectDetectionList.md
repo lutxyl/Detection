@@ -58,6 +58,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 | **Fast R-CNN** | Fast R-CNN | ***ROI Pooling, Feature Reuse*** | [ICCV' 15](https://arxiv.org/pdf/1504.08083.pdf) | [`[Caffe OC]`](https://github.com/rbgirshick/fast-rcnn) | Bin Wang |
 | **DeepProposal** | DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers | ***DeepProposal, Cascade*** | [ICCV' 15](https://arxiv.org/pdf/1510.04445.pdf) | [`[matconvnet OC]`](https://github.com/aghodrati/deepproposal) | Bin Wang |
 | **Faster R-CNN** | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | ***Real-time, RPN, Anchor*** | [NIPS' 15](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) | [`[caffe OC]`](https://github.com/rbgirshick/py-faster-rcnn) [`[tensorflow RC]`](https://github.com/endernewton/tf-faster-rcnn) [`[pytorch RC]`](https://github.com/jwyang/faster-rcnn.pytorch)  | Bin Wang |
+| **-** | Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction | ***deepCnn,Bayesian optimiazation,Structured Prediction*** | [CVPR'15](https://arxiv.org/pdf/1504.03293.pdf) | [`[matlab OC]`](https://github.com/YutingZhang/fgs-obj) | Fangfang Cheng |
 ##
 ### 2016
 
@@ -68,8 +69,13 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 | **OHEM** | Training Region-based Object Detectors with Online Hard Example Mining | ***online hard example mining*** | [CVPR' 16](https://arxiv.org/pdf/1604.03540.pdf) | [`[caffe OC]`](https://github.com/abhi2610/ohem) | Bin ang |
 | **SSD** | SSD: Single Shot MultiBox Detector | ***1-stage, default-box, Hard negative mining, multi-feature maps*** | [ECCV' 16](https://arxiv.org/pdf/1512.02325.pdf) | [`[caffe OC]`](https://github.com/weiliu89/caffe/tree/ssd) [`[tensorflow RC]`](https://github.com/balancap/SSD-Tensorflow) [`[pytorch RC]`](https://github.com/amdegroot/ssd.pytorch)| Bin Wang |
 | **R-FCN** | R-FCN: Object Detection via Region-based Fully Convolutional Networks  | ***PS ROI-Pooling, FCN*** | [NIPS](https://arxiv.org/pdf/1605.06409.pdf) | [`[caffe OC]`](https://github.com/daijifeng001/R-FCN) [`[caffe RC]`](https://github.com/YuwenXiong/py-R-FCN)| Bin Wang |
-
-
+| **MPN** | A MultiPath Network for Object Detection | ***Multipath network,object detection*** | [BMVC'16](https://arxiv.org/pdf/1604.02135.pdf) | [`[torch OC]`](https://github.com/facebookresearch/multipathnet) | Fangfang Cheng |
+| **GBDNet** | Crafting GBD-Net for Object Detection | ***GBD-Net,ObjectDetection*** | [ECCV'16](https://arxiv.org/pdf/1610.02579.pdf) | [`[caffe OC]`](https://github.com/craftGBD/craftGBD) | Fangfang Cheng |
+| **G-CNN** | G-CNN: an Iterative Grid Based Object Detector | ***G-CNN,object detector*** | [CVPR' 16](https://arxiv.org/pdf/1512.07729.pdf) | []() | Fangfang Cheng |
+| **AZNet** |  Adaptive Object Detection Using Adjacency and Zoom Prediction | ***adaptive object detection,adjacency,zoom prediction*** | [CVPR' 16](https://arxiv.org/pdf/1512.07711.pdf) | []() | Fangfang Cheng |
+| **ION** | Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks  | ***ION,skip pooling,recurrent Neural Networks*** | [CVPR' 16](https://arxiv.org/pdf/1512.04143.pdf) | []() | Fangfang Cheng |                                                     
+| **HyperNet** | HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection | ***HyperNet,region proposal generation,Joint Object Detection*** | [CVPR' 16](https://arxiv.org/pdf/1604.00600.pdf) | []() | Fangfang Cheng |
+| **CPF** | Contextual Priming and Feedback for Faster R-CNN | ***CPF,faster r-cnn*** | [ECCV' 16](https://pdfs.semanticscholar.org/40e7/4473cb82231559cbaeaa44989e9bbfe7ec3f.pdf) | []() | Fangfang Cheng |
 ##
 ### 2017
 
@@ -182,6 +188,6 @@ The papers related to datasets used mainly in Object Detection are as follows.
 |   16  |[Xitong Chen](https://github.com/sleepercxt)|   375122362@qq.com  |
 |   16  |[Jiaming Wang](-)|   -  |
 |   18  |[Bin Wang](https://github.com/urbaneman)|   wangurbane@gmail.com  |
-|   19  |[Fangfang Cheng](-)|   2475256748@qq.com  |
+|   19  |[Fangfang Cheng](-)|   youlinxiuyue@gmail.com  |
 
 ##
