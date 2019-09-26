@@ -75,7 +75,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 | **AZNet** |  Adaptive Object Detection Using Adjacency and Zoom Prediction | ***adaptive object detection,adjacency,zoom prediction*** | [CVPR' 16](https://arxiv.org/pdf/1512.07711.pdf) | []() | Fangfang Cheng |
 | **ION** | Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks  | ***ION,skip pooling,recurrent Neural Networks*** | [CVPR' 16](https://arxiv.org/pdf/1512.04143.pdf) | []() | Fangfang Cheng |                                                     
 | **HyperNet** | HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection | ***HyperNet,region proposal generation,Joint Object Detection*** | [CVPR' 16](https://arxiv.org/pdf/1604.00600.pdf) | []() | Fangfang Cheng |
-| **CPF** | Contextual Priming and Feedback for Faster R-CNN | ***CPF,faster r-cnn*** | [ECCV' 16](https://pdfs.semanticscholar.org/40e7/4473cb82231559cbaeaa44989e9bbfe7ec3f.pdf) | []() | Fangfang Cheng |
+| **CPF** | Contextual Priming and Feedback for Faster R-CNN | ***CPF,faster r-cnn*** | [ECCV' 16](https://pdfs.semanticscholar.org/40e7/4473cb82231559cbaeaa44989e9bbfe7ec3f.pdf) | [-]() | Fangfang Cheng |
 ##
 ### 2017
 
